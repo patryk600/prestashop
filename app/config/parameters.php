@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => '192.168.10.10',
+    'database_port' => '',
+    'database_name' => 'homestead',
+    'database_user' => 'homestead',
+    'database_password' => 'secret',
+    'database_prefix' => 'ps_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => 'hSGKhbdA4J49c2Hbb9IBuzwBG2qNkW1R558AGUTbmJtMPUzrN6BmgIEw',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2020-06-08',
+    'locale' => 'pl-PL',
+    'use_debug_toolbar' => true,
+    'cookie_key' => '9vaGuKCJDIvvnHd8n55xJOVbCQnmqjNAzcgZPRbb5gwfvd4FqstGIERb',
+    'cookie_iv' => '9IVWDns0',
+    'new_cookie_key' => 'def00000785108c1640f0a6ba9a706543591f407f86f4684e41a01c850be209b3adfa262cf18d3d7d03219be3e3e6fb69013bfc58970ae3f165c95f26ae6e39a875070ed',
+  ),
+);
